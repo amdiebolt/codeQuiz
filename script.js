@@ -78,13 +78,12 @@ startBtn.addEventListener("click", function(){
 
     function theQuiz() {
         if(quizStart = true){
-        //var currentQuestion = questionOne[currentQuestionObject]
         question.textContent = questionOne[currentQuestionObject].quest
         answerOne.textContent = questionOne[currentQuestionObject].ans1
         answerTwo.textContent = questionOne[currentQuestionObject].ans2
         answerThree.textContent = questionOne[currentQuestionObject].ans3
         answerFour.textContent = questionOne[currentQuestionObject].ans4 
-        //var correctAns = questionOne[currentQuestionObject].correct
+
         
     }
         if(gameOver()){
