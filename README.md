@@ -1,5 +1,7 @@
 # codeQuiz
 
+##Deployed Page: https://amdiebolt.github.io/codeQuiz/
+
 ## Description
 
 -This is a quiz on basic JavaScript terminology and syntax
@@ -15,8 +17,6 @@
 -CSS
 
 -Javascript
-
-##Deployed Page: https://amdiebolt.github.io/codeQuiz/
 
 ## Screenshot
 
