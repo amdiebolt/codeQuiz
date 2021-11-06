@@ -8,8 +8,19 @@
 
 -While completeing this quiz I cemented my knowledge of key JavaScript concepts, such as event listeners and APIs
 
+##Technologies Used
+-HTML
+
+-CSS
+
+-Javascript
+
 ##Deployed Page: https://amdiebolt.github.io/codeQuiz/
 
 ## Screenshot
 
 ![quiz](https://user-images.githubusercontent.com/89421292/136664960-86440aa0-9eb4-4789-8ab5-cb8bd1374f9a.PNG)
+
+## License
+
+
